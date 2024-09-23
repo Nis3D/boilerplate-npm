@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nishan Dangal",
+	"description": "This is Nishan Dangal writing simple description",
+	"keywords": ["freecodecamp","learning","project"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
